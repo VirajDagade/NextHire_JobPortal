@@ -29,7 +29,7 @@ app.use(cookieParser());
 // cookie-parser is used in Express to parse cookies sent by the client in HTTP requests. It makes cookie data easily accessible via req.cookies.
 
 const corsOptions = {
-  origin: "http://localhost:5173",
+  origin: "https://nexthire-jobportal-2.onrender.com",
   credentials: true,
   /* credentials: true
        Enables the server to accept and send cookies or authentication headers in cross-origin requests.
