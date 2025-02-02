@@ -13,7 +13,8 @@ import Companies from "./components/admin/Companies";
 import CompanyCreate from "./components/admin/CompanyCreate";
 import CompanySetup from "./components/admin/CompanySetup";
 import AdminJobs from "./components/admin/AdminJobs.jsx";
-import PostJob from "./components/admin/postJob";
+import PostJob from "./components/admin/PostJob.jsx";
+
 import Applicants from "./components/admin/Applicants";
 // import ProtectedRoute from "./components/admin/ProtectedRoute";
 // You define all the pages (routes) of your app using createBrowserRouter.
